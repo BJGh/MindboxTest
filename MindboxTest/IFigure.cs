@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MindboxTest
 {
-    public interface ICircle
+    internal interface IFigure
     {
         double getArea();
     }
